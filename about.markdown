@@ -6,7 +6,7 @@ date: 2025-05-24
 comments: false
 ---
 
-<center><a href="http://keqi.ng"><b>Keqing</b></a>'s spark shines in this minimalist portfolio. Explore the Electro swordmaster's lore, skills, and vision for Liyue's future, crafted with the clean elegance of the <a href="http://TolgaTatli.github.io/Moonrise">Moonrise</a> theme.</center>
+<center><a href="http://keqi.ng"><b>Keqing</b></a>'s spark shines in this minimalist portfolio.<br>Explore the Electro swordmaster's lore, skills, and vision for Liyue's future.</center>
 
 ## Biodata
 
@@ -41,6 +41,6 @@ Spark Liyue’s legacy with your Keqing fanart! Follow these guidelines to have 
 
 ## Support
 
-[Support the Keqing Portfolio](https://ko-fi.com/allaboutkeqing){: .btn}
+[Support the Keqing Portfolio](https://ko-fi.com/P5P61FFE2I){: .btn}
 
 *Help keep this site sparking with a small donation!*
